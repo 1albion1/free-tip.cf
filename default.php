@@ -1,0 +1,229 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Best soccer(football) tips">
+  <meta name="keywords" content="soccer,betting,tips,fixed matches,matches, 
+  easy money,internet money">
+<title>Best tips</title>
+<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="styles/style.css" >
+</head>
+<body style="    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}">
+<br><br><br>
+
+
+<div class="contact">
+<h1>CONTACT</h1><hr>
+Contact us at our e-mail:<br>
+<a style="font-size:20px" href="mailto:besttipsga@gmail.com">besttipsga@gmail.com</a><br><br>
+</div>
+
+<div class="fixed">
+<h1>HT-FT FIXED MATCHES</h1><hr>
+<h3>NEXT HT-FT FIXED MATCH</h3><hr>
+<div class="filler">
+TIP: Half time/Full time<br>ODD: 25.00/35.00<br>
+SAFE: 100%<br>
+PRICE: Contact us on e-mail<br>
+More Info: <a style="font-size:20px" href="mailto:besttipsga@gmail.com">besttipsga@gmail.com</a></div><hr>
+<h3>Last match 18.03.2017(Saturday)</h3><hr>
+<div class="filler">
+<div style="font-size:23px;color:blue;font-weight:bolder;">Ypiranga FC - Novo Hamburgo</div>
+Pick:2/1 <br> ODD:31.00<br> 
+Result:<br>0-1/2-1<br><div class="won"> WIN</div></div>
+<hr><h3>Proof</h3><hr> 
+<strong><span style="color:red; font-size:20px;">Note:</span> We hide our client's e-mail adress to respect their privacy!</strong>
+<div class="filler"> <a href="img/proof/fixed/2.png" target="_blank"><img width="80%" src="img/proof/fixed/2.png"></div></a>
+</div>
+
+<div class="contact">
+<h1>BANNER</h1><hr>
+<a href="http://best-tips.ga/"><img src="http://best-tips.ga/img/banner.gif" width="90%" height="100px" style="margin-bottom: 5px;"></a>
+</div>
+<div class="contact">
+<h1>PAYMENT METHODS</h1><hr>
+<a href="https://www.westernunion.com/mk/en/home.html" target="_blank"><img style="margin-bottom:5px" border="1 black"  src="img/wu.jpg" width="90%" height="100px"></a>
+<a href="https://secure.moneygram.com/" target="_blank"><img style="margin-bottom:5px" border="1 black" src="img/moneygram.jpg" width="90%" height="100px"></a>
+<a href="https://www.skrill.com/en/" target="_blank"><img style="margin-bottom:5px" border="1 black" src="img/skrill.gif" width="90%" height="100px"></a>
+<a href="https://www.mpesa.in/portal/" target="_blank"><img style="margin-bottom:5px" border="1 black" src="img/mpesa.jpg" width="90%" height="100px"></a>
+</div>
+
+<div class="fixed">
+<h1>ADVERTISEMENT</h1><hr>
+<a href="http://prooftip.beep.com/"><img src="http://store.picbg.net/pubpic/C2/F5/f294bd9e12fec2f5.gif" width="200" height="70"></a>
+<a href="http://cash1x2.beep.com/"><img src="http://store.picbg.net/pubpic/1B/E5/8a1da4e160901be5.gif" width="200" height="70"></a>
+<a target="_blank" href="http://suretips2x1.blogspot.mk/"><img src="http://blog.flamingtext.com/blog/2016/08/07/flamingtext_com_1470568385_831612131.gif" width="200" height="70"></a>
+<a target="_blank" href="http://nocerino-tips.blogspot.al/"><img src="http://mbmfiles.com/Feb2017/170205-fE_BQbUMRZJ_.gif" width="200" height="70"></a>
+<a href="http://www.premiumtips.net" target="_blank"><img border="0" src="http://www.premiumtips.net/images/banner.png" width="200" height="70" alt="PREMIUM TIPS" /></a>
+<a target="_blank" href="http://qatar-tips-team.bloger.hr/"><img src="http://i39.tinypic.com/5zkow.gif" width="200" height="70"></a>
+<a target="_blank" href="http://plamen1x2.beep.com/"><img src="http://store.picbg.net/pubpic/B2/51/fc45cd7f1340b251.gif" width="200" height="70"></a>
+<a target="_blank" href="http://freetip1x2.beep.com/"><img src="http://store.picbg.net/pubpic/F9/4F/3fee267e1731f94f.gif" width="200" height="70"></a>
+<a target="_blank" href="http://bomb1x2.beep.com/"><img src="http://store.picbg.net/pubpic/69/C0/8e2e5037a10f69c0.gif" width="200" height="70"></a>
+<a href="http://taurunum1x2.blogspot.com/" target="_blank"><img src="http://i.imgur.com/RsnlQ.gif"width="200" height="70" border="0" /></a>
+</div>
+
+
+<div class="fixed" style="border: solid 2px #E913AD;" id="freetip">
+<h1 style="color:#E913AD;">FREE ANALYSED MATCHES</h1><hr>
+<div class="small">Free analysed matches are matches with an odd from 1.20-3.00 for our page followers. 
+If our free tips help you make some money be sure to share our page with your friends .
+If you want matches with higher odds, fixed matches, send us an e-mail to buy one of our services.
+</div>
+
+<hr><h3>Free tip 20/March/2017</h3><hr>
+<div class="filler"><div style="font-size:23px;color:blue;font-weight:bolder;">Stourbridge - Ilkeston</div>
+Pick:1<br> Odd:1.33<br> </div></div>
+
+
+<div class="fixed">
+<h1>VIP TICKET</h1><hr>
+
+ <h3>Next VIP TICKET: 25.03.2017 (Saturday)</h3><hr>
+<div class="filler">VIP TICKET 4 VIP MATCHES
+Matches are 100% Safe !!!<br>
+ODDS: 50.00-90.00 <br>
+Price for TICKET is 80‎ €<br>
+For more information <br>
+Winning rate for VIP TICKET is 100%<br>
+Contact email: <a style="font-size:20px" href="mailto:besttipsga@gmail.com">besttipsga@gmail.com</a><br>
+</div>
+
+<hr>
+<h3>Last ticket 18.03.2017(Saturday)</h3><hr>
+
+<table class="table-fill">
+<thead> <tr>
+<th>DATE</th>
+<th>MATCH</th>
+<th>TIP</th>
+<th>ODD</th>
+<th>RESULT</th>
+<th>W/L</th>
+</tr></thead>
+<tbody class="table-hover">
+<tr>
+<td>18.03.2017</td>
+<td>Sunderland - Burnley</td>
+<td>X</td>
+<td>3.20</td>
+<td>0-0</td>
+<td>WIN</td>
+</tr>
+<tr>
+<td>18.03.2017</td>
+<td>Nancy - Lorient</td>
+<td>2</td>
+<td>3.75</td>
+<td>2-3</td>
+<td>WIN</td>
+</tr>
+<tr>
+<td>18.03.2017</td>
+<td>Eibar - Espanyol</td>
+<td>x</td>
+<td>3.40</td>
+<td>1-1</td>
+<td>WIN</td>
+</tr>
+<tr>
+<td>18.03.2017</td>
+<td>Sloboda - FK Sarajevo</td>
+<td>1</td>
+<td>2.70</td>
+<td>3-0</td>
+<td>WIN</td>
+</tr>
+<tr>
+<td> </td>
+<td>TOTAL ODD</td>
+<td> </td>
+<td>110.16</td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<hr><h3>Proof</h3><hr>
+<strong><span style="color:red; font-size:20px;">Note:</span> We hide our client's e-mail adress to respect their privacy!</strong>
+<div class="filler"><a href="img/proof/ticket/2.png" target="_blank"> <img width="80%" src="img/proof/ticket/2.png"></div></a>
+</div>
+</div>
+
+<div class="fixed">
+<h1>SUBSCRIPTON</h1><hr>
+ <div class="filler"> <img src="http://best-tips.ga/img/subprice.PNG"></div>
+ <hr><h3>SUBSCRIPTION FOR MONTH: March 2017</h3><hr>
+<div class="filler"><?php require 'sub.html';?></div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<ul style="position:fixed; bottom:0; left:5px; top:auto; width:20% ;margin-bottom:0;  border-bottom:0;">
+<li style=" width:100%">
+<a href="#freetip"  >FREE TIP</a>
+</li>
+</ul>
+
+<ul>
+<li>
+<a  href="default.php" class="active">Home</a>
+</li>
+<li>
+<a href="fixed-match-archive.html">Fixed match archive</a>
+</li>
+<li>
+<a href="ticket-archive.html">Ticket archive</a>
+</li>
+<li>
+<a href="subscripton-archive.html">Subscription archive</a>
+</li>
+</ul>
+
+
+<!--Simply copy and paste it where you wish the counter to appear.-->
+
+<div class="fixed">
+<SCRIPT language="JavaScript" type="text/javascript">
+// counter - from http://rainbow.arch.scriptmania.com/scripts
+function fakecounter(){
+
+//decrease/increase counter value (depending on perceived popularity of your site!)
+var decrease_increase=2460
+
+var counterdate=new Date()
+var currenthits=counterdate.getTime().toString()
+currenthits=parseInt(currenthits.substring(2,currenthits.length-4))+decrease_increase
+
+document.write("You are visitor # <b>"+currenthits+"</b> to my site!")
+}
+fakecounter()
+</script></div>
+
+
+
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3764725,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3764725&101" alt="free hit counters" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+</html>
